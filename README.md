@@ -1,3 +1,5 @@
+[![Build Status](https://henrikhammar.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/agentq15.mslearn-tailspin-spacegame-web?branchName=master)](https://henrikhammar.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-1441&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-1441)
 
 # Contributing
 
