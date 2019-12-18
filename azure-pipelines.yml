@@ -38,7 +38,6 @@ steps:
     command: 'restore'
     projects: '**/*.csproj'
 
-<<<<<<< HEAD
 - task: SonarCloudPrepare@1
   displayName: 'Prepare SonarCloud analysis'
   inputs:
@@ -58,8 +57,6 @@ steps:
       eq(variables['System.PullRequest.TargetBranch'], 'master')
     )
 
-=======
->>>>>>> f0dc55b5f3d226b5dc652f578448e87175ea51c3
 - task: DotNetCoreCLI@2
   displayName: 'Build the project - $(buildConfiguration)'
   inputs:
